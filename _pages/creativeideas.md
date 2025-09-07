@@ -3,8 +3,6 @@ layout: archive
 title: "Creative Ideas"
 permalink: /creativeideas/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}

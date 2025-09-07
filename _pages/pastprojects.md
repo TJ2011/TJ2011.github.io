@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Creative Ideas"
-permalink: /creativeideas/
+title: "Past Projects"
+permalink: /pastprojects/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}

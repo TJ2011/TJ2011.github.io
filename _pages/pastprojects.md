@@ -14,7 +14,7 @@ Estella
 * Core components: Lego EV3 brick
 * Specialties: 
   * Constructed with 
-* Competed in: FLL Malaysia 2024 <br/><img src='/images/500x300.png'>
+* Competed in: FLL Malaysia 2024 <br/><br/><img src='/images/500x300.png'>
 
 Lifeline 360
 ======
@@ -24,6 +24,6 @@ Lifeline 360
 * Specialties: 
   * Service in the form of an app
   * Flexible
-* Competed in: FLL Malaysia 2025
+* Competed in: FLL Malaysia 2025 <br/><br/><img src='/images/500x300.png'>
 
 

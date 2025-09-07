@@ -7,21 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-Estella
+1. Cavanger
 ======
-* A machine that can draw zodiac signs
-Objective: Help people know more about astrology
-Core components: Lego EV3 brick
-Specialties: • Constructed with 
-Competed in: FLL Malaysia 2024
+* A automated robot that explores and collect data of underwater caves
+* Objective: Avoid the risk of explorers getting hurt during such exploration 
 
-Lifeline 360
+2. Hand gesture recognition goggles
 ======
-* An automated system that can send resources to diver underwater
-Objective: Aids or acts as a backup for diver underwater
-Core components: ESP32 , Servo motors , Blynk
-Specialties: • Service in the form of an app
-             • Flexible
-Competed in: FLL Malaysia 2025
+* A pair of goggles that can recognise hand gestures of the other party
+* Objective: 
+  * Useful when communication is limited
+  * And for fun!
+
+3. Maker machine
+======
+* A machine inthe form of a service line that creates other models etc. which you can see the process
+* Objective:
+  * Gives people without any experience to unleash their inventive side
+  * Even more fun!
 
 

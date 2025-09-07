@@ -3,7 +3,6 @@ layout: archive
 title: "Past Projects"
 permalink: /pastprojects/
 author_profile: true
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 ---
 
 {% include base_path %}
@@ -16,6 +15,7 @@ Estella
 * Specialties: 
   * Constructed with 
 * Competed in: FLL Malaysia 2024
+<img src='/images/500x300.png'>
 
 Lifeline 360
 ======

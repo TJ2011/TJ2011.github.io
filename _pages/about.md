@@ -1,5 +1,5 @@
 ---
-permalink: /TJ2011.github.io/
+permalink: /
 title: "About me"
 author_profile: true
 ---

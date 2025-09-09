@@ -24,6 +24,11 @@ Lifeline 360 (Not yet...Soon :])
 * Specialties: 
   * Service in the form of an app
   * Flexible
-* Competed in: FLL Malaysia 2025 <br/><br/><source src= "/images/Lifeline 360 prototype 1.0.mp4" type="video/mp4">
+* Competed in: FLL Malaysia 2025 <br/><br/>
+<video width="320" height="240" controls>
+  <source src="/images/Lifeline 360 prototype 1.0.mp4.mp4" type="video/mp4">
+  <source src="/images/Lifeline 360 prototype 1.0.mp4.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 
 

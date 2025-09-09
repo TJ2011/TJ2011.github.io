@@ -14,7 +14,7 @@ Estella
 * Core components: Lego EV3 brick
 * Specialties: 
   * Constructed with 
-* Competed in: FLL Malaysia 2024 <br/><br/><img src= '/images/Estella.jpg'>
+* Competed in: FLL Malaysia 2024 <br/><br/><img src= '/images/Estella.jpg' width="500" height="300">
 
 Lifeline 360
 ======

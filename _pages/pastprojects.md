@@ -13,7 +13,7 @@ Estella
 * Objective: Help people know more about astrology
 * Core components: Lego EV3 brick
 * Specialties: 
-  * Constructed with 
+  * Constructed with gears for flexible movement
 * Competed in: FLL Malaysia 2024 <br/><br/><img src= '/images/Estella.jpg' width="500" height="300">
 
 Lifeline 360 (Not yet...Soon :])
@@ -27,7 +27,6 @@ Lifeline 360 (Not yet...Soon :])
 * Competed in: FLL Malaysia 2025 <br/><br/>
 <video width="320" height="240" controls>
   <source src="/images/Lifeline 360 prototype 1.0.mp4" type="video/mp4" width="500" height="700">
-  This is just prototype😅
 </video>
 
 
